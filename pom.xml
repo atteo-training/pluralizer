@@ -16,7 +16,7 @@
 
     <properties>
         <start-class>org.atteo.pluralizer_rest.Application</start-class>
-        <io.springfox.swagger.version>2.9.2</io.springfox.swagger.version>
+        <io.springfox.swagger.version>2.10.0</io.springfox.swagger.version>
         <com.sun.jaxb-core.version>2.3.0.1</com.sun.jaxb-core.version>
         <com.sun.jaxb-impl.version>${javax-jaxb.version}</com.sun.jaxb-impl.version>
         <java.version>12</java.version>
